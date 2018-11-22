@@ -6,7 +6,7 @@
 #
 ZBX_CONFIG_AGENT="/etc/zabbix/zabbix_agentd.conf"
 # Uncomment if need log
-LOG="/var/log/zabbix-agent/ceph.log"
+LOG="/var/log/zabbix/ceph.log"
 #
 #
 CLUSTER_NAME=$1
